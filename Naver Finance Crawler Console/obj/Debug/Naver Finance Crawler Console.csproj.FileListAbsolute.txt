@@ -1,0 +1,14 @@
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\Naver Finance Crawler Console\bin\Debug\Naver Finance Crawler Console.exe.config
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\Naver Finance Crawler Console\bin\Debug\Naver Finance Crawler Console.exe
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\Naver Finance Crawler Console\bin\Debug\Naver Finance Crawler Console.pdb
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\Naver Finance Crawler Console\obj\Debug\Naver Finance Crawler Console.csprojAssemblyReference.cache
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\Naver Finance Crawler Console\obj\Debug\Naver Finance Crawler Console.csproj.CoreCompileInputs.cache
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\Naver Finance Crawler Console\obj\Debug\Naver Finance Crawler Console.exe
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\Naver Finance Crawler Console\obj\Debug\Naver Finance Crawler Console.pdb
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\Naver Finance Crawler Console\bin\Debug\RestSharp.dll
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\Naver Finance Crawler Console\bin\Debug\RestSharp.xml
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\Naver Finance Crawler Console\obj\Debug\Naver Finance Crawler Console.csproj.CopyComplete
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\Naver Finance Crawler Console\bin\Debug\HtmlAgilityPack.CssSelectors.dll
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\Naver Finance Crawler Console\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\Naver Finance Crawler Console\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\Naver Finance Crawler Console\bin\Debug\HtmlAgilityPack.CssSelectors.pdb

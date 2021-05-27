@@ -1,0 +1,10 @@
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\Loading Form Project\bin\Debug\Loading Form Project.exe.config
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\Loading Form Project\bin\Debug\Loading Form Project.exe
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\Loading Form Project\bin\Debug\Loading Form Project.pdb
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\Loading Form Project\obj\Debug\Loading Form Project.csprojAssemblyReference.cache
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\Loading Form Project\obj\Debug\Loading_Form_Project.LoadingForm.resources
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\Loading Form Project\obj\Debug\Loading_Form_Project.Properties.Resources.resources
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\Loading Form Project\obj\Debug\Loading Form Project.csproj.GenerateResource.cache
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\Loading Form Project\obj\Debug\Loading Form Project.csproj.CoreCompileInputs.cache
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\Loading Form Project\obj\Debug\Loading Form Project.exe
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\Loading Form Project\obj\Debug\Loading Form Project.pdb

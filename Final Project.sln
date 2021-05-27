@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loading Form Project", "Loading Form Project\Loading Form Project.csproj", "{6B601141-BFAD-4780-BC9F-0FF3A2268443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockPlotter", "StockPlotter\StockPlotter.csproj", "{BB719490-A749-498A-A389-E5FE6F8C3F99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naver Finance Crawler Console", "Naver Finance Crawler Console\Naver Finance Crawler Console.csproj", "{30ADC8B3-44EE-4840-A1E1-4A2EC0F4EE81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B601141-BFAD-4780-BC9F-0FF3A2268443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B601141-BFAD-4780-BC9F-0FF3A2268443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B601141-BFAD-4780-BC9F-0FF3A2268443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B601141-BFAD-4780-BC9F-0FF3A2268443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB719490-A749-498A-A389-E5FE6F8C3F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB719490-A749-498A-A389-E5FE6F8C3F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB719490-A749-498A-A389-E5FE6F8C3F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB719490-A749-498A-A389-E5FE6F8C3F99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30ADC8B3-44EE-4840-A1E1-4A2EC0F4EE81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30ADC8B3-44EE-4840-A1E1-4A2EC0F4EE81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30ADC8B3-44EE-4840-A1E1-4A2EC0F4EE81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30ADC8B3-44EE-4840-A1E1-4A2EC0F4EE81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7132E8F-1056-4455-AB56-2870152AD429}
+	EndGlobalSection
+EndGlobal

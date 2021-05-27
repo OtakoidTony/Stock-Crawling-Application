@@ -1,0 +1,72 @@
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\StockPlotter.exe.config
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\StockPlotter.exe
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\StockPlotter.pdb
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\obj\Debug\StockPlotter.csprojAssemblyReference.cache
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\obj\Debug\StockPlotter.MainForm.resources
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\obj\Debug\StockPlotter.Properties.Resources.resources
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\obj\Debug\StockPlotter.csproj.GenerateResource.cache
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\obj\Debug\StockPlotter.csproj.CoreCompileInputs.cache
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\obj\Debug\StockPlotter.exe
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\obj\Debug\StockPlotter.pdb
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\HtmlAgilityPack.CssSelectors.dll
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\RestSharp.dll
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\System.Buffers.dll
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\System.Memory.dll
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\HtmlAgilityPack.CssSelectors.pdb
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\RestSharp.xml
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\System.Buffers.xml
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\System.Memory.xml
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\obj\Debug\StockPlotter.csproj.CopyComplete
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\obj\Debug\StockPlotter.LoadingForm.resources
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\ScottPlot.dll
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\System.Drawing.Common.dll
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\System.ValueTuple.dll
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\ScottPlot.xml
+C:\Users\Rojiku\Desktop\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\System.ValueTuple.xml
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\StockPlotter.exe.config
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\StockPlotter.exe
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\StockPlotter.pdb
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\HtmlAgilityPack.CssSelectors.dll
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\HtmlAgilityPack.dll
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\Newtonsoft.Json.dll
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\RestSharp.dll
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\ScottPlot.dll
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\ScottPlot.WinForms.dll
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\System.Buffers.dll
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\System.Drawing.Common.dll
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\System.Memory.dll
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\System.Numerics.Vectors.dll
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\System.ValueTuple.dll
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\HtmlAgilityPack.xml
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\HtmlAgilityPack.CssSelectors.pdb
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\Newtonsoft.Json.xml
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\RestSharp.xml
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\ScottPlot.xml
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\System.Buffers.xml
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\System.Memory.xml
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\System.Numerics.Vectors.xml
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\bin\Debug\System.ValueTuple.xml
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\obj\Debug\StockPlotter.csprojAssemblyReference.cache
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\obj\Debug\StockPlotter.LoadingForm.resources
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\obj\Debug\StockPlotter.MainForm.resources
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\obj\Debug\StockPlotter.Properties.Resources.resources
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\obj\Debug\StockPlotter.csproj.GenerateResource.cache
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\obj\Debug\StockPlotter.csproj.CoreCompileInputs.cache
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\obj\Debug\StockPlotter.csproj.CopyComplete
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\obj\Debug\StockPlotter.exe
+D:\대학교 과제\Windows Programming\Final Project\Final Project\StockPlotter\obj\Debug\StockPlotter.pdb
